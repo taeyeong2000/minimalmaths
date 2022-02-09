@@ -1,1 +1,1 @@
-# minimalmaths
+minimal maths
